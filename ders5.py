@@ -7,6 +7,3 @@ blurred = cv2.GaussianBlur(img, (7, 7), 0) # 7x7'lik bir çekirdek kullanarak yu
 cv2.imshow("Bulank", blurred)
 
 cv2.waitKey(0)
-
-
-cv2.waitKey(0)
